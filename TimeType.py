@@ -1,7 +1,3 @@
-# class CINF 308
-# Dhruv Amrishbhai Patel
-# Assignment - 5
-
 class TimeType:
     
     # __init__ method that will be exected as soon as the program loads this class.
@@ -95,3 +91,4 @@ class TimeType:
         return (f"{self.hour:02}:{self.minute:02}:{self.second:02} {period}")
         
           
+
