@@ -1,1 +1,2 @@
 I am a informatics major with software development and have good understanding of programming languages like python, Java and JS. Also have a great knowledge in HTML, CSS languages for frontend. I am interested in full stack development. This repository has inhertance.
+This project has two class a parent and a child class. paraent class is TimeType.py which displays time and day while clock.py is a child class that gets inherited.
